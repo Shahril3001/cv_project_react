@@ -1,2 +1,2 @@
-# cv_react
+# cv_project_react
 CV Management
