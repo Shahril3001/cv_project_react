@@ -1,4 +1,4 @@
-# CVSeekerBN: CV Management (Web Development 2)
+# CVSeekerBN: CV Management (MERN Framework)
 CVSeekerBN is a website that allows the user to submit their CV or resume to potential employers by using customized CV template provided by CVSeekerBN. The CV documents consists of user profiles, work history, education, skills, language, and achievements, that are typically used in the job application process.
 The name CVSeekerBN originates from the name of an actual life one of government recruitment agency in Brunei Darussalam, Job Centre Brunei, which shares the same goals of facilitating employment opportunities for Bruneians and assisting employers in finding suitable candidates for their job vacancies.
 
