@@ -11,9 +11,9 @@ Vision
 -Dedicated to providing innovative solutions that streamline the job search process, while creating a culture of excellence that attracts and retains the best talent in the industry
 
 There will be 3 categories of users used in the system, which are Employee/administrator, Guest, and Seeker/ Registered User. Each of the three user types on the website has a different set of roles and access privileges.
-i. Employee/Administrator
+- Employee/Administrator
 The administrator oversees maintaining the website's data, user accounts, and online registered user interactions. The administrator has full access to the website and can view user information, manage user accounts and website content.
-ii. Guest
+- Guest
 The guest is the user who visits the website to learn more about the CV maker and its services. They can access some areas of the website which includes the home page, the about page, and the services page.
-iii. Seeker/ Registered User
+- Seeker/ Registered User
 The seeker/registered users are for those who visit the website to submit CV or resume to potential employers. They can make use of the template that is prepared by the website to create their CV. To utilize the tool for creating the CV, the seeker must register and log in first.
